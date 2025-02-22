@@ -5,22 +5,18 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github rmenai/AdiosCaml))
 
-(authors "Author Name <author@example.com>")
-
-(maintainers "Maintainer Name <maintainer@example.com>")
+(authors "Rami Menai <rami@menai.me>")
 
 (license LICENSE)
 
-(documentation https://url/to/documentation)
-
 (package
  (name AdiosCaml)
- (synopsis "A short synopsis")
- (description "A longer description")
+ (synopsis "Adiós, OCaml! C you later.")
+ (description "A C a day keeps OCaml away.")
  (depends ocaml)
  (tags
-  ("add topics" "to describe" your project)))
+  ("ocaml" "c" "compiler" "transpiler")))
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/reference/dune-project/index.html
