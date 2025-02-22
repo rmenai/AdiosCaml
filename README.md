@@ -6,8 +6,9 @@
 
 - [What is AdiosCaml?](#what-is-adioscaml)
 - [Is this an OCaml hate project?](#is-this-an-ocaml-hate-project)
-<!-- - [How does it work?](#how-does-it-work) -->
 - [Supported features](#supported-features)
+
+<!-- - [How does it work?](#how-does-it-work) -->
 
 ## What is AdiosCaml?
 
