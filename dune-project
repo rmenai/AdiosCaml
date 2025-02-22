@@ -8,13 +8,14 @@
  (github rmenai/AdiosCaml))
 
 (authors "Rami Menai <rami@menai.me>")
+(maintainers "Rami Menai <rami@menai.me>")
 
-(license LICENSE)
+(license MIT)
 
 (package
  (name AdiosCaml)
- (synopsis "Adiós, OCaml! C you later.")
- (description "A C a day keeps OCaml away.")
+ (synopsis "Adiós, OCaml! C you later")
+ (description "A C a day keeps OCaml away")
  (depends ocaml)
  (tags
   ("ocaml" "c" "compiler" "transpiler")))
