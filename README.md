@@ -33,4 +33,4 @@ None (for now)
 <!-- Shields.io links -->
 
 [github license]: https://img.shields.io/badge/license-MIT-blue.svg
-[test action]: https://github.com/efiriyad/site/actions/workflows/test.yaml/badge.svg
+[test action]: https://github.com/rmenai/AdiosCaml/actions/workflows/ci.yml/badge.svg
