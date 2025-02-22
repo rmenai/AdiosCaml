@@ -1,0 +1,4 @@
+(executable
+ (public_name AdiosCaml)
+ (name main)
+ (libraries AdiosCaml))
